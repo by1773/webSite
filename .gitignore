@@ -1,0 +1,9 @@
+.DS_Store
+/node_modules/
+/dist/
+/.idea/
+/test/
+/package-lock.json
+/bak/
+bak/
+package-lock.json
